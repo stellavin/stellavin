@@ -17,7 +17,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=stellavin)
 
 ## Random Dev Quote:
-> "Debugging is like trying to find a needle in a haystack, but you created the haystack and the needle."
+> "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
 
 ## About Me:
 I thrive on critical thinking and problem-solving, adapting to new challenges with enthusiasm. Time management is crucial in my workflow, enabling me to maintain empathy and accountability while staying organized. With strong communication skills, I enjoy fostering teamwork and collaboration to deliver exceptional results. Creativity drives my passion for project management, sparking innovation at every opportunity.
