@@ -5,6 +5,9 @@
 🌱 Currently, I'm honing my skills as a Software developer at DESelect.<br>
 😄 Pronouns: She/Her
 
+## 🌐 Socials:
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stella-sikhila) [!
+
 ## Tech Stack:
 - **Web Development**: HTML, CSS, SCSS, Bootstrap, Tailwind
 - **Client-side Programming**: JavaScript, React, Next.js, Vue.js, Angular, TypeScript
