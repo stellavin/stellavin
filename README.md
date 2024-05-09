@@ -1,16 +1,26 @@
-### Hi there 👋
+Welcome! 👋 I'm a dedicated software developer, passionate about crafting robust and scalable applications. With a solid background in collaborating within international teams, I bring extensive experience in full-stack development to the table. My focus lies on delivering high-quality, maintainable code in every project I undertake.
 
-<!--
-**stellavin/stellavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack:
+- **Web Development**: HTML, CSS, SCSS, Bootstrap, Tailwind
+- **Client-side Programming**: JavaScript, React, Next.js, Vue.js, Angular, TypeScript
+- **Server-side Programming**: Node.js, Express, Python, Django, API - REST, GraphQL
+- **Testing tools**: Jest, Vitest, Cypress, React Testing Library
+- **User Experience (UX)**: Figma
+- **State Management**: Redux
+- **Agile processes**
+- **Deployment**: Vercel, Cloudflare, AWS, Heroku, Digital Ocean
+- **Containerization**: Docker, Kubernetes
 
-Here are some ideas to get you started:
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stellavin&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=stellavin)
+
+## Random Dev Quote:
+> "Debugging is like trying to find a needle in a haystack, but you created the haystack and the needle."
+
+## About Me:
+I thrive on critical thinking and problem-solving, adapting to new challenges with enthusiasm. Time management is crucial in my workflow, enabling me to maintain empathy and accountability while staying organized. With strong communication skills, I enjoy fostering teamwork and collaboration to deliver exceptional results. Creativity drives my passion for project management, sparking innovation at every opportunity.
+
+Let's collaborate and create something amazing together! 🚀
