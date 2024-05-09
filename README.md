@@ -1,7 +1,8 @@
-💫 Hi, there 👋! I'm Stella, a full-stack software developer:
-🔭 Passionate about crafting robust and scalable applications.
-👯 I'm eager to collaborate on impactful projects for social good.
-🌱 Currently, I'm honing my skills as a Software developer at DESelect
+### 💫 Hi, there! 👋 I'm Stella, a full-stack software developer:
+
+🔭 Passionate about crafting robust and scalable applications.<br>
+👯 I'm eager to collaborate on impactful projects for social good.<br>
+🌱 Currently, I'm honing my skills as a Software developer at DESelect.<br>
 😄 Pronouns: She/Her
 
 ## Tech Stack:
