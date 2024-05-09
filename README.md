@@ -1,4 +1,4 @@
-### 💫 Hi, there! 👋 I'm Stella, a full-stack software developer
+## 💫 Hi, there! 👋 I'm Stella, a full-stack software developer
 
 🔭 Passionate about crafting robust and scalable applications.<br>
 👯 I'm eager to collaborate on impactful projects for social good.<br>
@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stella-sikhila)
 
-# 💻 Tech Stack:
+##  💻 Tech Stack:
 - **Web Development**: HTML, CSS, SCSS, Bootstrap, Tailwind
 - **Client-side Programming**: JavaScript, React, Next.js, Vue.js, Angular, TypeScript
 - **Server-side Programming**: Node.js, Express, Python, Django, API - REST, GraphQL
@@ -19,7 +19,7 @@
 - **Deployment**: Vercel, Cloudflare, AWS, Heroku, Digital Ocean
 - **Containerization**: Docker, Kubernetes
 
-# 📊 GitHub Stats:
+##  📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stellavin&show_icons=true&theme=dark)
 
 ## 🏆 GitHub Trophies
