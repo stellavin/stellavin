@@ -1,4 +1,8 @@
-Welcome! 👋 I'm a dedicated software developer, passionate about crafting robust and scalable applications. With a solid background in collaborating within international teams, I bring extensive experience in full-stack development to the table. My focus lies on delivering high-quality, maintainable code in every project I undertake.
+💫 Hi, there 👋! I'm Stella, a full-stack software developer:
+🔭 Passionate about crafting robust and scalable applications.
+👯 I'm eager to collaborate on impactful projects for social good.
+🌱 Currently, I'm honing my skills as a Software developer at DESelect
+😄 Pronouns: She/Her
 
 ## Tech Stack:
 - **Web Development**: HTML, CSS, SCSS, Bootstrap, Tailwind
