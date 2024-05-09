@@ -17,7 +17,7 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=stellavin)
+![](https://github-profile-trophy.vercel.app/?username=stellavin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Random Dev Quote:
 > "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
