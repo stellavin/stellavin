@@ -20,7 +20,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=stellavin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Random Dev Quote:
-> "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=stellavin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+-->
 
 ## About Me:
 I thrive on critical thinking and problem-solving, adapting to new challenges with enthusiasm. Time management is crucial in my workflow, enabling me to maintain empathy and accountability while staying organized. With strong communication skills, I enjoy fostering teamwork and collaboration to deliver exceptional results. Creativity drives my passion for project management, sparking innovation at every opportunity.
